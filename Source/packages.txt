@@ -1,0 +1,5 @@
+
+Qemu      qemu-2.6.0      https://www.qemu.org/
+U-Boot    u-boot-2017.01  https://www.denx.de/wiki/U-Boot/WebHome
+Kernel    linux-3.10.53   https://www.kernel.org/
+Busybox   busybox-1.22.1  https://busybox.net/
